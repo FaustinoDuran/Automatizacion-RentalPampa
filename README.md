@@ -37,6 +37,6 @@ Este proyecto automatiza el envío de correos electrónicos de alerta basados en
 
 ## Autor
 
-Faustino González  
+Faustino Duran 
 📧 faustigzmd@gmail.com
 
